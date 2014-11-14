@@ -15,7 +15,7 @@ show_related_posts: false
 show_post_footers:  false
 
 # Social icons
-show_social_icons: true
+show_social_icons: false
 github_username: parvathime
 twitter_username: manga_pennu
 google_plus_id:
