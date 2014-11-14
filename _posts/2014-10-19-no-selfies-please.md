@@ -20,4 +20,4 @@ I admit I look like crap in 99% of my pictures, but don’t hold that against me
 1. Selfies destroy the moment— That moment we’re living in, that sublime feel of seeing the light float off the waves, tasting a crispy fish fry, hearing your friend’s laughter, smelling the buttery scent of your mother’s carrot halwa. I once witnessed a group of people waste 10 minutes in a restaurant trying to take a selfie, while their food lay steaming on their plates, waiting to be eaten. It’s a bit sad when you think about it.
 
 Note: This is a test post. Big thanks to [Nithin Bekal](http://nithinbekal.com/)  for...well, everything. Like configuring Jekyll,  choosing my theme, giving me suggestions on domain names, teaching me how to work Github and spending nearly 4 hours of blood, sweat and tears on setting this up. I'll buy you lunch.
-.......ok, I'll buy you 4. 
+.......ok, I'll buy you 4.
